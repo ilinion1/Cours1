@@ -1,4 +1,4 @@
-package cn.danatech.cours1.presentation
+package cn.danatech.cours1.presentation.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
